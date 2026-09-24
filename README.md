@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://rentry.co/archiesfinalproject">RENTRY</a>　
-<a href="https://pronouns.cc/@archiesfinalproject">PRONOUNS</a>￴￴　
+<a href="https://pronouns.cc/@archiesfinalproject">PRONOUNS</a>￴￴
 </div>
 <p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
